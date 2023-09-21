@@ -1,0 +1,1 @@
+call injector.exe Hello.exe cheat.dll
